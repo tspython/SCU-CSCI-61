@@ -1,0 +1,2 @@
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Examples\Stack_Calc\x64\Debug\Stack_Calc.exe.lastcodeanalysissucceeded
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Examples\Stack_Calc\Stack_Calc\x64\Debug\NativeCodeAnalysis.read.1.tlog
