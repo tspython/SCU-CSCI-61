@@ -6,7 +6,7 @@
 
 #include <stack>
 #include <iostream>
-#include <string.h>
+#include <string>
 using namespace std;
 
 //FUNCTION PROTOTYPES
@@ -35,10 +35,12 @@ int main() {
 	if (choice == 1)
 		exp_name = "Infix";
 	else
-		exp_name = "Prefix";
+		exp_name = "Prefix(with spaces in between operators/operands)";
 	cout << endl;
 	cout << "Enter " + exp_name + " expression: ";
-	cin >> input;
+	
+	cin.ignore();
+	getline(cin, input);	
 
 	if (choice == 1) 
 		input = infixToPrefix(input);
@@ -46,6 +48,7 @@ int main() {
 		input = prefixToInfix(input);
 
 	cout << input << endl;
+	
 	return 0;
 }
 
@@ -80,27 +83,31 @@ string infixtoPrefixReverse(string postfix) {
 
 string prefixToInfix(string input) {
 	stack<string> operands;
-	string output;
+	string current_operand;
 
-	for (int i = input.size() - 1; i >= 0; i--) {
-		if (strchr("+-*/", input[i]) != NULL) {
+	int i = input.size() - 1;
+	while (i >= 0) {
+		if (isalpha(input[i]) || isdigit(input[i])) {
+			while (isalpha(input[i]) || isdigit(input[i])) {
+				current_operand += input[i];
+				i--;
+			}
+			reverse(current_operand.begin(), current_operand.end());
+			operands.push(current_operand);
+			current_operand = "";
+		}
+		else if (input[i] != ' ') { //when we reach an operator
 			string operand_one = operands.top();
 			operands.pop();
+
 			string operand_two = operands.top();
 			operands.pop();
-			
-			//check if at last pop to prevent extra parantheses 
-			if (i==0) 
-				output = operand_one + input[i] + operand_two;
-			else
-				output = '(' + operand_one + input[i] + operand_two + ')';
-		
-			operands.push(output);
+
+			operands.push('(' + operand_one + input[i] + operand_two + ')');
 		}
-		else {
-			operands.push(string(1, input[i]));
-		}
+		i--;
 	}
+
 	return operands.top();
 }
 
@@ -116,15 +123,16 @@ string infixToPrefix(string input) {
 		if (input[i] == '(') 
 			operators.push(input[i]);
 	
-		else if (isalpha(input[i]) || isdigit(input[i]))
+		else if (isalpha(input[i]) || isdigit(input[i])){
 			output += input[i];
-
+		}
 		else if (strchr("+-*/", input[i]) != NULL) {
 			while (!operators.empty() &&  !(input[i] == '(') &&
 					(operator_precedence(operators.top()) >= operator_precedence(input[i]))) {
 				output += operators.top();
 				operators.pop();
 			}
+			output += " "; //add space between numbers
 			operators.push(input[i]);
 		}
 		else {
@@ -137,7 +145,8 @@ string infixToPrefix(string input) {
 	}
 		
 	while (!operators.empty()){
-		output += operators.top();
+		if(operators.top() != '(')
+			output += operators.top();
 		operators.pop();
 	}
 
