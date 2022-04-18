@@ -1,3 +1,10 @@
+/*
+* FILE: office_hours.cpp
+* Author: Tushar Shrivastav
+* Based on: Main, Savitch Data Structures and Other Objects Using C++ (4th Edition)
+* Class: CSCI 61
+*/
+
 #include <iostream>
 #include <cassert>
 #include <cstdlib>
@@ -29,6 +36,16 @@ void averager::next_number(double value) {
 double averager::average() const{
     assert(how_many_numbers() > 0);
     return sum / count;
+}
+
+Student::Student() {
+    office_time = 0;
+    arrival_time = 0;
+}
+
+Student::Student(unsigned int ot, unsigned int at) {
+    office_time = ot;
+    arrival_time = at;
 }
 
 office_hours::office_hours(unsigned int s) {

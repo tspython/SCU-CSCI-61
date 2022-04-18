@@ -1,3 +1,4 @@
 ﻿  main.cpp
-C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW02\HW02\main.cpp(67,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  office_hours.cpp
+  Generating Code...
   HW02.vcxproj -> C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW02\x64\Debug\HW02.exe

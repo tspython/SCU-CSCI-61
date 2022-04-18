@@ -1,3 +1,10 @@
+/*
+* FILE: office_hours.h
+* Author: Tushar Shrivastav
+* Based on: Main, Savitch Data Structures and Other Objects Using C++ (4th Edition)
+* Class: CSCI 61
+*/
+
 #ifndef OFFICE_HOURS_H
 #define OFFICE_HOURS_H
 
@@ -30,6 +37,25 @@ class averager {
 	private:
 		std::size_t count;
 		double sum;
+};
+
+class Student
+{
+	public:
+		Student();
+		Student(unsigned int ot, unsigned int at);
+		int get_office_time() {
+			return office_time;
+		}
+		int get_arrival_time() {
+			return arrival_time;
+		}
+		void set_office_time(int of) {
+			office_time = of;
+		}
+	private:
+		int office_time;
+		int arrival_time;
 };
 
 
