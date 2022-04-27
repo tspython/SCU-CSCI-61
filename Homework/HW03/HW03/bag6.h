@@ -90,5 +90,5 @@ namespace main_savitch_10
     bag<Item> operator +(const bag<Item>& b1, const bag<Item>& b2);
 }
 
-#include "bag6.cpp" // Include the implementation.
+#include "bag6.template" // Include the implementation.
 #endif
