@@ -139,8 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="hw02p2.cpp" />
-    <ClCompile Include="hw02p1.cpp" />
+    <ClCompile Include="hw03p2.cpp" />
+    <ClCompile Include="hw03p1.cpp" />
+    <ClCompile Include="hw03p3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bag6.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bag6.h" />
+    <ClInclude Include="bintree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

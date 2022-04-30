@@ -15,11 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hw02p2.cpp">
+    <ClCompile Include="hw03p2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hw02p1.cpp">
+    <ClCompile Include="hw03p1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="hw03p3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bag6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bintree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bag6.cpp">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
