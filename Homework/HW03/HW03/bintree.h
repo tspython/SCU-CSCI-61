@@ -110,11 +110,8 @@ public:
     // TYPEDEF
     typedef Item value_type;
     // CONSTRUCTOR
-    binary_tree_node(
-        const Item& init_data = Item(),
-        binary_tree_node* init_left = NULL,
-        binary_tree_node* init_right = NULL
-    )
+    binary_tree_node(const Item& init_data = Item(), binary_tree_node* init_left = NULL,
+        binary_tree_node* init_right = NULL)
     {
         data_field = init_data;
         left_field = init_left;
@@ -122,8 +119,8 @@ public:
     }
     // MODIFICATION MEMBER FUNCTIONS
     Item& data() { return data_field; }
-    binary_tree_node* left() { return left_field; }
-    binary_tree_node* right() { return right_field; }
+    binary_tree_node*& left() { return left_field; }
+    binary_tree_node*& right() { return right_field; }
     void set_data(const Item& new_data) { data_field = new_data; }
     void set_left(binary_tree_node* new_left) { left_field = new_left; }
     void set_right(binary_tree_node* new_right) { right_field = new_right; }
@@ -162,6 +159,7 @@ binary_tree_node<Item>* tree_copy(const binary_tree_node<Item>* root_ptr);
 
 template <class Item>
 std::size_t tree_size(const binary_tree_node<Item>* node_ptr);
+
 
 
 
@@ -265,9 +263,7 @@ size_t tree_size(const binary_tree_node<Item>* node_ptr)
     if (node_ptr == NULL)
         return 0;
     else
-        return
-        1 + tree_size(node_ptr->left()) + tree_size(node_ptr->right());
+        return 1 + tree_size(node_ptr->left()) + tree_size(node_ptr->right());
 }
-
 
 #endif

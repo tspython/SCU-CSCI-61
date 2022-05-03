@@ -1,4 +1,4 @@
-
+/*
 #include <iostream>
 
 using namespace std;
@@ -18,7 +18,7 @@ int count_binary_tree(int num_of_nodes);
 *  Q: How many different binary trees with 4 nodes are there ? Justify your answer.
 *		14 using algorithm described above.
 * 
-*/
+
 
 
 int main() {
@@ -41,3 +41,4 @@ int count_binary_tree(int num_of_nodes) {
 	}
 }
 
+*/
