@@ -141,10 +141,12 @@
   <ItemGroup>
     <ClInclude Include="bag6.h" />
     <ClInclude Include="bintree.h" />
+    <ClInclude Include="office_hours.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bag6.cpp" />
     <ClCompile Include="hw04p1.cpp" />
+    <ClCompile Include="hw04p2.cpp" />
+    <ClCompile Include="office_hours.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

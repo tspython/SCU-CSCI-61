@@ -21,12 +21,18 @@
     <ClInclude Include="bag6.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="office_hours.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hw04p1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="bag6.cpp">
+    <ClCompile Include="hw04p2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="office_hours.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
