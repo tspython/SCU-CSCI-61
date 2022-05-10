@@ -1,0 +1,14 @@
+Stacks
+Queues
+Trees
+Heaps
+B-Trees
+MAPs
+Sorting
+Searching
+Graphs
+Writing
+Checking Code
+Question
+Quick Question
+How to write this function?

@@ -21,13 +21,17 @@ void heapify(binary_tree_node<Item>*& root_ptr, int size);
 int main() {
 	bag<int> b;
 
-	b.insert(50);
+	
 	b.insert(5);
+	b.insert(2);
 	b.insert(10);
-	b.insert(122);
-	b.insert(35);
+	b.insert(4);
 	b.insert(9);
-	b.insert(5);
+	b.insert(1);
+	b.insert(8);
+	b.insert(3);
+	b.insert(7);
+	b.insert(6);
 
 	cout << "tree before heapify:" << endl;
 	print(b.get_root(), b.size());

@@ -1,5 +1,3 @@
-﻿  hw04p2.cpp
-C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW04\HW04\hw04p2.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW04\HW04\hw04p2.cpp(68,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW04\HW04\hw04p2.cpp(90,40): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+﻿  hw04p1.cpp
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW04\HW04\hw04p1.cpp(38,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   HW04.vcxproj -> C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW04\x64\Debug\HW04.exe

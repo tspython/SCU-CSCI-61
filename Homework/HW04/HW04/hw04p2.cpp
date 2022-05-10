@@ -1,9 +1,10 @@
 /*
+/*
 * FILE: main.cpp
 * Author: Tushar Shrivastav
 * Based on: Main, Savitch Data Structures and Other Objects Using C++ (4th Edition)
 * Class: CSCI 61
-*/
+
 
 #include <iostream>
 #include <cstdlib>
@@ -91,3 +92,4 @@ void simulate_office_hours(unsigned int office_time, double p, unsigned int tota
 		time_beyond_one_hr += (current_second - 60);
 	}
 }
+*/
