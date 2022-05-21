@@ -1,3 +1,6 @@
 ﻿  hw05p3.cpp
 C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW05\HW05\hw05p3.cpp(136,40): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  office_hours.cpp
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW05\HW05\office_hours.cpp(84,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
   HW05.vcxproj -> C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW05\x64\Debug\HW05.exe

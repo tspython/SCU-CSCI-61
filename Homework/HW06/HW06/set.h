@@ -9,7 +9,7 @@
 //     default constructor, a copy constructor, an assignment operator, and a
 //     less-than operator forming a strict weak ordering.
 //
-// CONSTRUCTOR for the set<Item> class:
+// CONSTRUCTOR for the set<Item> class:s
 //   set( )
 //     Postcondition: The set is empty.
 //
@@ -48,47 +48,51 @@
 #define MAIN_SAVITCH_SET_H
 #include <cstdlib>   // Provides size_t
 
-namespace main_savitch_11
+
+template <class Item>
+class set
 {
-    template <class Item>
-    class set
-    {
-    public:
-        // TYPEDEFS
-        typedef Item value_type;
-        // CONSTRUCTORS and DESTRUCTOR
-        set();
-        set(const set& source);
-        ~set() { clear(); }
-        // MODIFICATION MEMBER FUNCTIONS
-        void operator =(const set& source);
-        void clear();
-        bool insert(const Item& entry);
-        std::size_t erase(const Item& target);
-        // CONSTANT MEMBER FUNCTIONS
-        std::size_t count(const Item& target) const;
-        bool empty() const { return (data_count == 0); }
-        // SUGGESTED FUNCTION FOR DEBUGGING
-        void print(int indent) const;
-    private:
-        // MEMBER CONSTANTS
-        static const std::size_t MINIMUM = 200;
-        static const std::size_t MAXIMUM = 2 * MINIMUM;
-        // MEMBER VARIABLES
-        std::size_t data_count;
-        Item data[MAXIMUM + 1];
-        std::size_t child_count;
-        set* subset[MAXIMUM + 2];
-        // HELPER MEMBER FUNCTIONS
-        bool is_leaf() const { return (child_count == 0); }
-        bool loose_insert(const Item& entry);
-        bool loose_erase(const Item& target);
-        void remove_biggest(Item& removed_entry);
-        void fix_excess(std::size_t i);
-        void fix_shortage(std::size_t i);
-        // NOTE: The implementor may want to have additional helper functions
-    };
-}
-#include "set.cpp" // Include the implementation.
+public:
+    // TYPEDEFS
+    typedef Item value_type;
+    // CONSTRUCTORS and DESTRUCTOR
+    set();
+    set(const set& source);
+    ~set() { clear(); }
+    // MODIFICATION MEMBER FUNCTIONS
+    void operator =(const set& source);
+    void clear();
+    bool insert(const Item& entry);
+    std::size_t erase(const Item& target);
+    // CONSTANT MEMBER FUNCTIONS
+    std::size_t count(const Item& target) const;
+    bool empty() const { return (data_count == 0); }
+    // SUGGESTED FUNCTION FOR DEBUGGING
+    void print(int indent) const;
+private:
+    // MEMBER CONSTANTS
+    static const std::size_t MINIMUM = 200;
+    static const std::size_t MAXIMUM = 2 * MINIMUM;
+    // MEMBER VARIABLES
+    std::size_t data_count;
+    Item data[MAXIMUM + 1];
+    std::size_t child_count;
+    set* subset[MAXIMUM + 2];
+    // HELPER MEMBER FUNCTIONS
+    bool is_leaf() const { return (child_count == 0); }
+    bool loose_insert(const Item& entry);
+    bool loose_erase(const Item& target);
+    void remove_biggest(Item& removed_entry);
+    void fix_excess(std::size_t i);
+    void fix_shortage(std::size_t i);
+    // NOTE: The implementor may want to have additional helper functions
+    void fix_root();
+    void copy_set(const set& set);
+    //fix_shortage sub-functions
+    void case_one(size_t i);
+    void case_two(size_t i);
+    void case_three(size_t i);
+    void case_four(size_t i);
+};
 
 #endif

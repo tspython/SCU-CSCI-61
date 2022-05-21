@@ -97,6 +97,3 @@ private:
 };
 
 #endif
-
-//FORMAT : <STUDENT_NAME> < #NUMBER OF TIMES, SET_OF_TOPICS>
-//multimap <pair<string, int>, vector<string>>;

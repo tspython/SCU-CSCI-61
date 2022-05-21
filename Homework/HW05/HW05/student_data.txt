@@ -1,40 +1,40 @@
-Student1 111 q g b p p b p g d s g h f b f n f m p o d r o t k r l j o n h r r f s k c m f n d f i l s e l e f e n f s o n s n d g r e c s g a i l q p p f e n j p a p q h b d b g c b j f p q j s s d i f l k c e j m r e o l c l q j f s 
-Student10 112 q a s r p f l i o l f s o i c n i f g q o l a s j l g k k c d s l t g h a g c n d r p j i a b o h d t t d p a l n q o l a f b d k m i l q r m t p t t o t q s c e c s q f j d n r s d b f h b t b m t m n h k c f b t a s o i h 
-Student11 114 d n j l d f p a m t f p t c n p n l f r m l e d a o p h a b k c g d j b g c c i e s l h a s g p r n j t s f i d c l q f d l n q r i p p b g p m h a c n t e c m m t g n k q a g l a a o d e s g p n m r p q r l j q a b j i e s g c 
-Student12 115 h i h a c l p f h e j f r f j c o q o a s a s b h s l j j d m l p s m c t p e f a r l h b d l e e c s i h j s j c t l g a l d l p b l d h f c g e i i c t g k o d a f o i q c r o h c f m k d l e b r n e q e a k n h m k m q k b j d 
-Student13 112 m h q h i f m c p c b r m k i e a p i k j o e a j f s e s k k g m a l t f e b k f n m e p o i f g f b m p e l q a e i a o j o r i k r e r t o r n s d o l i c j k m s k q e g e s g a a d i e l h a f d h l k j r c e a d m d o 
-Student14 135 n n n l f d m p q r r r g h o d p e f j c a f l r l h i s q h q s c k d b p a n r l d m n g e k t c d l s d p f l a h t o a o q a p h d r j r b r b c r q j p n n b n o n g c m m r c b o i s f g s p a k l d d i l i n c g c d r h l a b h h p h j k i i e n k k q m i m r r 
-Student15 104 t k n b l q l c e b r t c g s f g h t i a r m s l k t f m l e k j g i s a p f n p s h b r g c o m t o p i f s f q d c t g a g b g d o j a n d i f k s b p e b j p j h t n k q p c r s m s p f d m f h d h a b p 
-Student16 119 l h m o r b l t h c g n c c t s o h l q j j i h r r t k b e b a r f a q e t r s g l d o h r r s d c c s e k q k g l e i e b i l k t b e g g k i n e n q j j k d l a h f t l j b o h c o s p s d m j f g s k h g s t q j q c e j c e a c j o b 
-Student17 117 f g p l i b l k h h k j n m b s l g r q j r p j b b d c q k g a a t r p f b f o f c c t h h p k i e r q l t a p o m h s e k o b q a s d m r s n a s c n h s o a f r g l l p j n a j p f j m m n c k m p n r o b r k j h h l c t r f l m j 
-Student18 110 d g s t c r d l j o s o s i e h c b r e f i k c s c q k k c q g s m a g m e g c b s l s a k e d r f i n k d d p d b t r p e r m i n b r i l t r l m k r a f k o o g h d c j i b t t q e r d m k f c s q c i l h r n f a q m 
-Student19 123 e f l i k m t o e i s l h p f q m b t h g q d l b h j k c p k b h k d f h g i j k a m t h q r e b n r k t k o s j o q i s p h o b s h s a n i j o f d r h e n e j s m q l a j t o g q e h m m d e s i o l a r p d j p n a i s s t c f k l m e f s f f 
-Student2 98 t a j t i o o a c l d t m m a m e c r f f g k j b i h f o k c g g b m a g p g q a f f g c r g l e t c r q o p q a a i k m h i n n a c p k p o a s e i c q a g s k o b t j s h l j a p h k k c t n h 
-Student20 78 f p g n r c m f i q e f m e c i i n f a h h p b k q j a k k i n i e c f r d c k g r g m a g h e m l p o c t p n i m t s l c p m f j n k j e s s e a c k h j 
-Student21 102 q l f p i g q n c s g a e p k n n k m l q i n h b c b e o m n e e p d c n l k k f f m d i q m c f k r n o g r n p n d g c d o k t d p d a k o j k s f l d t t s e a e n r p n q d g t o p e b f t c l i r r 
-Student22 99 p l o k h l h p e r d l o b m g m m l m h b r h m r e c r e b l n c s t a t e d i e r s c t c i n t s r n k k k l n h b d k p n o h q e g n i f j n a e a c g j p g a j s s s o f i i q a f t l l r n 
-Student23 98 l d r s q k h a h h f d r n b q e e c j j n q j m l o l c a i a b n j d q g b s b h j b f i c b l q k p k e p j h l k a f m l l b l k m e l g k c p k h d g l t i b p q q e b g o n l q m s r h s h 
-Student24 108 l e f r s m r l c n t i s j n a k t e q o b e e t r h k a o h t j d g h j s j q b l f g n g a c f a p s e a b r f r e a p b s t e a d p p d c m g e m k m i r n k l k g c c h h m p j e p b n b r r d m q q s d p o o i 
-Student25 115 p m e j t t c n l i a e n q s c d d c h c m f t j f k m h j a d j f b m g c t m p q b m b p l s g j t s p q m g b b c s q r c e t n s c p m b t k f t f b i b d o b o c o o f e i t o p k t i m n b g j i j t g h d c b i b g d h s p 
-Student26 117 o l r r i o l f h g b t g h p b h a b c f t c s q c a p n q d h n p t d o a m r g d q e a o p a t s g j h f i c l a l r r o k s e a j m e s m d n c f m d k j o n j d f k d p e h e f r g h f g d i t m r l i o h b n d t q d c a d j g q 
-Student27 110 c k p p a q p g n q k t s q e c h k e m h t d e d a c h o q e s b k i t j h e j m f t b h h a f h k b f a b r p l m g q t b n j i e g s t m e l s f q b l s g p n e h a f n c g r j e c b q o a k f a p k a g r j a b e d k 
-Student28 118 d m k p f b i c f a n m l j t q m b q c c t h m g r p r m p p k g b m t m m r r h o i c i d t s s r q p n b c i f t k e t r f b t o g f d i l k n o g q c e s r n e r j d e i a j n s m l n p i q j s r j k g c n s g q b c l g e p c l e b 
-Student29 113 d p b m p a l i d k a b r j a g c d e f t l f k n g i b n i b b c e t i s q e c i b e c e g e b h k g t g r r b q s q t n m h p t t i m a k b m l l b l k e g j s o g k d g s c g r m s e k s b j h a n s i i f c f n a d r k k b 
-Student3 121 e j m m i j b b c j e i n f l h e k e n t i e l d p g r j h e t r c c r i b o t s e s b l n g p i e m d f p j j p k h m t b o l s t d p a g k t h q s p i d h j n o b b e e l p p o q t g q k r s a a o i h n t l e a k s f r c a k r f m n k k m 
-Student30 107 m i l o r p m q c d n b j t i t q i k b k q c o l m o a q o i a e f n p r l k o a l c o f r e g e t j e g e p m p b n q t f d j d b c t d r a h h q l n n g n d g c n d h d d s o k e o i g f q s f p n l e r d n o r 
-Student31 117 m k l m r j d l s o q c g k d a r i t t d i j m h k o g m e h c i e g p d b o s m t j t c j q k e l l t t c q h a e f m i d l f t d e i d p s g b a a g n o q h g d t j f s e d r e n o d j c e f r l s k e c k j o e s s o o b t m s s a 
-Student32 117 s h o p n e e b l q k e b q c r d n c b i c r o o l i o d r k b j c r b r d p i o m h e s g d e g h t d l j e n m k b p b q r a l b c b q s a s r d a t m e o n d r t g o k d a m n m q j d a j d s i b q d p a t f p g q r o k t b l d o 
-Student33 106 l f t k j c k t b q j a g j s p g d b a h r a p q h f i a s l c h b k n j g a e p j i e a b d t b e a o o d j s l p e h g q t n i n m r j g b r g m n m t i c f h i l g r j o k b l d k r f s a h l n d i t c n a g 
-Student34 103 q n j l e t h d o d f q k s s t q h r s j n l c p p f t h f e a e q r i e r a f t i g k p l q a r b r m t m o f s o a q n t q j c b n d s o g g i k f c b i c n l p s j m r f t s n k l s p n c c c m m i c i 
-Student35 121 b b r f a b i n h f q o k r d n t b l a o i n e a b d d b r i j e n o g o g m a a s p c l g q g t l m n i i h k l l d k m m b j j p q f o s r o o m q t b c e m s h q r o e n d o i n h d q j n e r f h n e o r p c g f q h e l b b f g o p o k p 
-Student36 109 a k f e g h e h g k a h g g i o j p h a c c e f k r h i p t c n o r a h j b e g l o l b q a e s e g q l o k s j f g c a r m r c p g s t q r a l j m h p d c d l k f p t j d b s p f r q b i b s f a b c e b p k p g h m g 
-Student37 123 l h h s t o t s n f d s m b h i r j c i r k m t d c i m n l r i d o c c o r s h t m a q t j g j m l n h k l m g k j j t o f g c t d a i q f t r b f f h s t p n o m c r e a k r a d f g q b s c p d h m q m t s j m c p q r n p h b p t d n n f c o b 
-Student38 106 t n l e a e a d o e m j g q e d b n j l f e o j i c r q n c r l b l m g i m s o i h s n f m a m a s d l f m i r k n l o d l s o q p f h a t h t e o p o a a k j s l a e k l n e p o n q g h a b n g m p s r h q q m 
-Student39 123 a o o t a s t h d i q b o i t f i n s g m b l l j p b l s c c m f c q p k s s m f n q i m b h q q n a e g q h a h a p d s j h p q n d p f f l m c n o f c r s o l b b d l d e p a i p k c b i j c g p b f d b f j c o b n d q a c r d f k i b m j r b 
-Student4 119 g f m t r h i k h k s r n b d o i i i g o g e q d e g n b l b c c g r b b s s h h t b q n i d m i d j c l t d j e b b q l s m p n s d m t t d q j l m n n i t g m d i b d a p q g t n q n f a g h g r m c e a e q g l h m f e o p o k l d r o 
-Student40 110 b m t h o d p d l c l l t l r p g b n r s m q r f m f l q t a t e e h n i e o j c i m h e g m i h m d h a p j d c p m b m e h a t j t q l i o m f d t p f p c n s f r b q h b d t r s a o p r e t h h g q r n h c n c p n j 
-Student5 116 t q j r s l k h a g i n q p n a h s p l t e n c i q h j m t l q s o i b d l c i p q a c f f o s l d i t t i p p j i g d m k e b o n g k t o r a e l t m i t b d i l a t q l r b e e a l f a m i j f s t c h n j d h r h h g s s o g k r 
-Student6 116 a l d i e d r f g b f l c k k a b o c d i g h o k i k b g f t e l h i l i c f o r m e k n n t j p g d p s n q g k d i a e i f p g c n g n a e k c j d o c o h s p i r o m o t m c s r h k r q g o h r d d p k g n m q t s q i j c o n e 
-Student7 80 r f g t a f b p b o d f o p j t i g i f i t t p r k n c t a r k k t b h n m p b i a p l c d k l a l q g n s i m e g l g i n t q b c f d j t p g b q r q h f o p 
-Student8 100 i h q j d l i n t g q s d s e t p b e s e l t q d j l b q t l g o q c p h l p l h c b d l g s g p p h p e b n h t i i c g k k t i b f f b s n m f r f k i c c g h s q t j k i m o r c s f s r a i c g k 
-Student9 113 r a s f r q r b c r q l q s t c s n h f t c t d s b m e j r b a n e k m m c p b d f s n m k p h c j a r q e c h c f o a s o p l f g i s e j b f h r h t s c p l a h o e k c o f j c j t j h a t d c e t q g m a i b r p s f a j j 
+Student1 43 a f p a i f d g t p t s n p c c c o k m n m s i e n i d b f b l h m m i m i a c j q a 
+Student10 35 h s p b s n k e s j a s b a k e s q i a g j h m s i s o k o e n k f l 
+Student11 46 c a e h f k f d d n q q m h k b a m r d e d q g j d l r g o b m e h i b p e t k j a r c r a 
+Student12 46 k b l p m b m n h a d f c r m i t t d s n d r d t o t t q r e d f n n c d j t o n i m e i m 
+Student13 53 d n e l k k f j s r p e g r b g t b j m l a e q o n b f b g e i f e o c r d r g a a f a c o k t g a g e p 
+Student14 53 g p b g a k b r k j m j j e k i o k q t b m h b s s f a r h k n t f k a b k g k l d a s c f d r c f o o f 
+Student15 54 m f p q n k h d j a i k g t a r o m g s c k k b m n j i h f d s q p h g k i h p a g r a p r r a g o n k n r 
+Student16 48 a e m f a i l f j l m r q p e q s i r b g h r h t b l r e e i l o m l n h f q e s s d o b h l a 
+Student17 37 m q g h q l g q n m k a c o o l r a j q q r g q r k c a f k o i p t a o o 
+Student18 42 k h k k r f q d b h e i a h i b n e b q d k t s p l p p i r r o r j h m k h e j c a 
+Student19 35 h h k r l i p g e m s d k m o q m f l h n b b i h k s f q a c t k l l 
+Student2 58 n k s h o c f m d o e k d q i m h k s o l h b o m e o l l j g k d c f j b q j m a a a l j n g n j n k j q h b t n p 
+Student20 43 j s r b d s a f e j c o e l c s k f o t t e l k n m b q n p p g p d l k r c c p s n a 
+Student21 41 e i l i i e a j j g a a o n s p d n q f j o l i f s g d g d m m h r e h h g l c t 
+Student22 56 g i d r g k c j f o t k j c p e k b k e q h t t e p q b p d c n k n c c s c s h p d k a f l p p o o r g p g f n 
+Student23 51 p c i d b o h o q i a b t e a g t c n j h l s m g f o f j o h k d b l i b b s b d l r s d g l p s g f 
+Student24 55 f l s o n e s r f n h r o c g i o g g m s s q f i g b n q d n a n r e q p g p c r k h p t p s l l j b h s t i 
+Student25 49 q n e d r q l s p d t j t h m k a c l j o h g a d i s e n s c r i b m k q q q r k t p g r o r e i 
+Student26 49 i h q h s g t h d r j h r c i m d g o q a l l s g m f h h i e s a t j r i i g p p j n g a j h n m 
+Student27 48 p f j s k h c e h t k l l h k l o s q p p c d d l j s d s i n k j e t s q e s g s p q q t c c l 
+Student28 51 a m b g q p m b s q p e k l n a h k p a d n i l a e d r k h i r c b n t f e b r q d t q b f h t h t e 
+Student29 52 r j f k q m i h p g t q n i c s q a i l g d q a j j m k s r t e a p e n s s f g k d j s t o a f p d s g 
+Student3 68 f q s f p d g f j n t c n h c g t l q d c k f m h n i p r e e p p l e f c k g a f o b l s j f g b p t t d p t d j j e t h s i n f n a e 
+Student30 37 f q b a r g h o q e l e c a k c b o e a l p n h o s r k r k j h k q o t p 
+Student31 39 d p f a o k l m i a d s j p l p p i b a s c i m j p b p l k s m g h e g b o i 
+Student32 45 e s a t e n m f b f f s f o p f k o d f i c m l k c c q a g s d r c s q b n c b k q n k f 
+Student33 48 i j o j k j e j p r o a d g h s g b m f h j m c k j m j l f e p s k o i o l g l q d c i l r j q 
+Student34 40 f b c p p d t f n l e b p j g a s b d q n h l o h n a r k b l k r p d k p d c m 
+Student35 44 s i a b h c f n c f h i p f j k a d e e a l g l i g n b b l m f o e j h d i p g q p e k 
+Student36 38 e g a f l d l j h q g i b k r o r a o j j d a i l o b c f f o c s j t s p i 
+Student37 52 p b e b n t c e g o i a f g p g s k q s o d i g g k o t g k d c j a g i p a o f m i m b m i i j f l l f 
+Student38 48 d k j r b g n n r f s b h i e n i l j r n b c l t d t i q j a p b h a g n i h j h j d l t l f a 
+Student39 49 q g c c s j b b m l l e d i t t r i o f a t f o p f a g d d t f e d i h d o h g i j s k h i n c f 
+Student4 32 t o r j i k d l r m e n a s s l a e c t p o n q o b r l a b t j 
+Student40 56 p s j j c c a m p l k t j l m p c j i o f b a k a s e k a n s f c n b t e e i c k d k p d n b t k i i h b j i j 
+Student5 49 s r d k p s k m l s g m k l p a a m t q i g j n c r i l a t l c b j d a b o n t d a m k a s h h l 
+Student6 43 e f d e q g s p e n l o f n b e t l g a r o n p c p p f s q e m s g b c a s j a p k c 
+Student7 45 e t g m f t e e a q m c l a k b o n d i m m r m b o m j f t m j r s p f r b p k e p a i b 
+Student8 30 a g r q m l r l d a a q s a f r e o h d d r a l i j n g c c 
+Student9 46 t k n s o k e l n e r b r k r j e n s t d n s c r m f d s o t j g f d b d g s f h p m i i o 

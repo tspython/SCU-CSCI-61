@@ -142,6 +142,7 @@
     <ClInclude Include="set.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="hw06.cpp" />
     <ClCompile Include="set.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

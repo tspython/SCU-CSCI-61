@@ -1,0 +1,53 @@
+﻿  set.cpp
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(148,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(118): message : while compiling class template member function 'bool set<int>::loose_insert(const Item &)'
+          with
+          [
+              Item=int
+          ]
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(44): message : see reference to function template instantiation 'bool set<int>::loose_insert(const Item &)' being compiled
+          with
+          [
+              Item=int
+          ]
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(10): message : while compiling class template member function 'set<int>::set(void)'
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(571): message : see reference to function template instantiation 'set<int>::set(void)' being compiled
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(571): message : see reference to class template instantiation 'set<int>' being compiled
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(289,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(269): message : while compiling class template member function 'void set<int>::fix_excess(size_t)'
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(167): message : see reference to function template instantiation 'void set<int>::fix_excess(size_t)' being compiled
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(118): message : while compiling class template member function 'bool set<int>::loose_insert(const Item &)'
+          with
+          [
+              Item=int
+          ]
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(44): message : see reference to function template instantiation 'bool set<int>::loose_insert(const Item &)' being compiled
+          with
+          [
+              Item=int
+          ]
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(314,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(321,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(330,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(472,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(470): message : while compiling class template member function 'void set<int>::case_one(size_t)'
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(370): message : see reference to function template instantiation 'void set<int>::case_one(size_t)' being compiled
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(241): message : while compiling class template member function 'void set<int>::remove_biggest(Item &)'
+          with
+          [
+              Item=int
+          ]
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(231): message : see reference to function template instantiation 'void set<int>::remove_biggest(Item &)' being compiled
+          with
+          [
+              Item=int
+          ]
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(484,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(520,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(517): message : while compiling class template member function 'void set<int>::case_three(size_t)'
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(405): message : see reference to function template instantiation 'void set<int>::case_three(size_t)' being compiled
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(565,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(545): message : while compiling class template member function 'void set<int>::case_four(size_t)'
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(420): message : see reference to function template instantiation 'void set<int>::case_four(size_t)' being compiled
+C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\HW06\set.cpp(238): warning C4715: 'set<int>::loose_erase': not all control paths return a value
+  HW06.vcxproj -> C:\Users\tspyt\Desktop\SCU-CSCI-61\Homework\HW06\x64\Debug\HW06.exe
